@@ -6,15 +6,16 @@ import { Box } from '@mui/material';
 import { info } from '../assets/info/Info';
 
 const links = [
+    // Empty element aligns top navbar
   {
-    name: 'Home',
+    name: '',
     to: '/',
     active: 'home',
   },
   {
-    name: 'About Me',
-    to: '/about',
-    active: 'about',
+    name: 'Home',
+    to: '/',
+    active: 'home',
   },
   {
     name: info.initials,
@@ -23,10 +24,11 @@ const links = [
     active: 'home',
   },
   {
-    name: 'Portfolio',
-    to: '/portfolio',
-    active: 'portfolio',
+    name: 'About Me',
+    to: '/about',
+    active: 'about',
   },
+  
 ];
 
 export default function Navbar({ darkMode, handleClick }) {
