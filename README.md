@@ -97,13 +97,6 @@ export const particleBgColors = () => {
 ```js
 // fill with your own google analytics credentials
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
-  measurementId: '',
 };
 ```
 
