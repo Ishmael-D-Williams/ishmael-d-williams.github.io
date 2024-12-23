@@ -5,7 +5,7 @@ export const info = {
   firstName: 'Ishmael',
   lastName: 'Williams',
   initials: 'IW', 
-  position: 'Level 2 IT Support Technician',
+  position: 'a Level 2 IT Support Technician',
   selfPortrait: self, 
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
   baseColor: colors[0],
