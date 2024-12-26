@@ -86,14 +86,14 @@ const ParticlesBg = ({ darkMode }) => {
             },
           },
           collisions: {
-            enable: true,
+            enable: false,
           },
           move: {
             direction: 'none',
             enable: true,
             outMode: 'bounce',
             random: true,
-            speed: 6,
+            speed: 2,
             straight: false,
             attract: {
               enable: false,

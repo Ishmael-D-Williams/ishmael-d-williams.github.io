@@ -17,7 +17,7 @@ export const info = {
     },
     {
       emoji: '🛠️',
-      text: 'Advanced Repair Agent at GeekSquad',
+      text: 'Advanced Repair Agent at Geek Squad',
     },
     {
       emoji: '📧',
