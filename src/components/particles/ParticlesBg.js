@@ -64,7 +64,7 @@ const ParticlesBg = ({ darkMode }) => {
               quantity: 4,
             },
             repulse: {
-              distance: 150,
+              distance: 100,
               duration: 0.4,
             },
           },
