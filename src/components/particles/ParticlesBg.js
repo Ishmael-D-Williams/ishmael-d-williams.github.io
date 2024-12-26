@@ -35,7 +35,7 @@ const ParticlesBg = ({ darkMode }) => {
             value: backgroundColor,
           },
         },
-        fpsLimit: 120,
+        fpsLimit: 60,
         fullScreen: {
           enable: true,
           zIndex: -1,
