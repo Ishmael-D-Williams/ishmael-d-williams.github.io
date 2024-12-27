@@ -42,7 +42,7 @@ export const info = {
     },
     
   ],
-  bio: "Hello! I'm Ishmael. I'm a Computer Repair Technician. I studied CompSci at KSU and enjoy all manner of computer hardware and software. I currently work as an Advanced Repair Agent for Geek Squad. I love to hike, exercise, and play games. Based in McDonough, Georgia.",
+  bio: "Hello! I'm Ishmael. I'm a Computer Repair Technician. I studied CompSci at KSU and enjoy all manner of computer hardware and software. I currently work as an Advanced Repair Agent for Geek Squad. I love to hike, exercise, and play games.",
   skills: {
     languages: ['JavaScript', 'Java', 'C++', 'HTML/CSS'],
     frameworks: [
