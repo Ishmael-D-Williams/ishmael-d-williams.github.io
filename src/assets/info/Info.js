@@ -13,7 +13,7 @@ export const info = {
 
     {
       emoji: '🇺🇸',
-      text: 'based in the McDonough, Georgia',
+      text: 'based in McDonough, Georgia',
     },
     {
       emoji: '🛠️',
