@@ -42,7 +42,7 @@ export const info = {
     },
     
   ],
-  bio: "Hello! I'm Ishmael. I'm a Geek Squad supervisor. I studied CompSci at KSU and enjoy all manner of computer hardware and software. I currently work as Counter Intelligence Agent Senior for Geek Squad. I love to hike, exercise, and play games.",
+  bio: "Hello! I'm Ishmael. I studied computer science at Kennesaw State University in GA, and enjoy all manner of computer hardware and software. I currently work as a Counter Intelligence Agent Senior for Geek Squad. I love to read, play games with friends, visit parks, hike, take photos, and visit nerdy conventions.",
   skills: {
     languages: ['JavaScript', 'Java', 'C++', 'HTML/CSS'],
     frameworks: [
