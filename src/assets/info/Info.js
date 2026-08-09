@@ -5,7 +5,7 @@ export const info = {
   firstName: 'Ishmael',
   lastName: 'Williams',
   initials: 'IW', 
-  position: 'a Level 2 IT Support Technician',
+  position: 'a Geek Squad supervisor',
   selfPortrait: self, 
   gradient: `-webkit-linear-gradient(135deg, ${colors})`, 
   baseColor: colors[0],
@@ -17,7 +17,7 @@ export const info = {
     },
     {
       emoji: '🛠️',
-      text: 'Advanced Repair Agent at Geek Squad',
+      text: 'Counter Intelligence Senior Agent at Geek Squad',
     },
     {
       emoji: '📧',
@@ -42,7 +42,7 @@ export const info = {
     },
     
   ],
-  bio: "Hello! I'm Ishmael. I'm a Computer Repair Technician. I studied CompSci at KSU and enjoy all manner of computer hardware and software. I currently work as an Advanced Repair Agent for Geek Squad. I love to hike, exercise, and play games.",
+  bio: "Hello! I'm Ishmael. I'm a Geek Squad supervisor. I studied CompSci at KSU and enjoy all manner of computer hardware and software. I currently work as Counter Intelligence Agent Senior for Geek Squad. I love to hike, exercise, and play games.",
   skills: {
     languages: ['JavaScript', 'Java', 'C++', 'HTML/CSS'],
     frameworks: [
@@ -72,8 +72,8 @@ export const info = {
       emoji: '💪',
     },
     {
-      label: 'Dog dad',
-      emoji: '🐕',
+      label: 'Reading',
+      emoji: '📚',
     },
 
   ],
